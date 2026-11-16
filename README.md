@@ -4,6 +4,7 @@
 **hanchaerin/hanchaerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### 안녕하세요~ 한채린입니다
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
